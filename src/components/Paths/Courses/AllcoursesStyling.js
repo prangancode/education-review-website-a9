@@ -3,7 +3,7 @@ import React from 'react';
 const AllcoursesStyling = (props) => {
     const { course_name, author_name, description, img, price } = props.course
     return (
-        <div className=" ring-4 ring-gray-300 rounded-xl shadow-xl">
+        <div className=" ring-4 ring-indigo-300 rounded-xl shadow-xl">
             <img className="rounded-t-xl  w-full object-cover" src={img} alt="" ></img>
             <div className="flex flex-col p-7">
                 <div className="flex flex-row">
@@ -21,7 +21,7 @@ const AllcoursesStyling = (props) => {
                     <h4 className="p-1 text-red-500 font-semibold text">Course Price : ${price}</h4>
                 </div>
                 <div>
-                    <button className="bg-white border border-gray-400 font-semibold hover:bg-gray-100 mt-4 px-4 py-2 rounded shadow text-gray-800 w-2/3">
+                    <button className="bg-white border border-indigo-400 font-semibold hover:bg-gray-100 mt-4 px-4 py-2 rounded shadow text-gray-800 w-2/3">
                         Course Details
                     </button>
                 </div>

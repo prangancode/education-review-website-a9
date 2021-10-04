@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <div className="px-4 divide-y bg-gray-100 dark:text-coolGray-100">
+        <div className="px-4 divide-y bg-indigo-700 text-white font-bold dark:text-coolGray-100">
             <div className="container flex flex-col justify-between py-10 mx-auto space-y-8 lg:flex-row lg:space-y-0">
                 <div className="lg:w-1/3">
                     <a href="https:www.google.com" className="flex justify-center space-x-3 lg:justify-start">
