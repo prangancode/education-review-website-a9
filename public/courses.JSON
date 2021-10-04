@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "course_name": "Python Django Web Development: To-Do App",
+        "author_name": "Jose Portilla",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg"
+    },
+    {
+        "id": 2,
+        "course_name": "Oracle SQL Developer : Essentials, Tips and Tricks",
+        "author_name": "Kirill Eremenko",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-5.jpg"
+    },
+    {
+        "id": 3,
+        "course_name": "Learning A-Z™: Hands-On Python In Data Science",
+        "author_name": "Ana Murphy",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-4.jpg"
+    },
+    {
+        "id": 4,
+        "course_name": "Deep Learning a-z™: Hands-on Artificial Neural Networks",
+        "author_name": "Tim Buchalka",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-3.jpg"
+    },
+    {
+        "id": 5,
+        "course_name": "Java Programming Masterclass for Software Developers",
+        "author_name": "Rosy Janner",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-2.jpg"
+    },
+    {
+        "id": 6,
+        "course_name": "The Data Science Course 2020: Complete Data Science",
+        "author_name": "Tom Steven",
+        "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
+        "rating": 4.2,
+        "reviews": 920,
+        "price": 50,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-1.jpg"
+    }
+]
