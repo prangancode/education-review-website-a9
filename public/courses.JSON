@@ -7,7 +7,7 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg"
+        "img": "./CourseImage/course-1.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-5.jpg"
+        "img": "./CourseImage/course-2.jpg"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-4.jpg"
+        "img": "./CourseImage/course-3.jpg"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-3.jpg"
+        "img": "./CourseImage/course-4.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-2.jpg"
+        "img": "./CourseImage/course-5.jpg"
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "rating": 4.2,
         "reviews": 920,
         "price": 50,
-        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-1.jpg"
+        "img": "./CourseImage/course-6.jpg"
     }
 ]

@@ -29,10 +29,10 @@ const Home = () => {
 
                 <div className='flex-col self-center w-1/3 px-12 m-5'>
                     <Zoom top cascade>
-                        <h1 className='font-bold text-5xl'>Build Skills With Experts Any Time, Anywhere</h1>
+                        <h1 className='font-bold text-4xl'>Build Skills With Experts Any Time, Anywhere</h1>
                     </Zoom>
                     <Flash>
-                        <p className='mt-10 text-2xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p className='mt-10 text-2xl'>Education connects you with the stories, theories and accomplishments of faraway cultures and generations. It offers you a body of knowledge greater than you can ever gain on your own in one lifetime.</p>
                     </Flash>
                     <Link to='/courses'> <button className="bg-white border border-gray-400 font-semibold hover:bg-indigo-400 hover:text-white mt-16  px-4 py-2 rounded shadow text-gray-800 w-2/3 ">
                         Start a course

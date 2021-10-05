@@ -38,10 +38,10 @@ const Footer = () => {
                         <h3 className="tracking-wide uppercase dark:text-coolGray-50">Company</h3>
                         <ul className="space-y-1">
                             <li>
-                                <a href="https:www.google.com">Privacy</a>
+                                <a target='_blank' href="https://www.google.com" rel="noreferrer">Privacy</a>
                             </li>
                             <li>
-                                <a href="https:www.google.com">Terms of Service</a>
+                                <a target='_blank' href="https://www.google.com" rel="noreferrer">Terms of Service</a>
                             </li>
                         </ul>
                     </div>
